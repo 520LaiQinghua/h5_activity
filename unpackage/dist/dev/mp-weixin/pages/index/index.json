@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "沃银商城",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "search": "/components/index/header",
+    "swiper": "/components/index/swiper",
+    "grid": "/components/index/grid",
+    "activity-name": "/components/index/activityName",
+    "special-name": "/components/index/specialName",
+    "topic-name1": "/components/index/topicName1",
+    "topic-name2": "/components/index/topicName2"
+  }
+}
